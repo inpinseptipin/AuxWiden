@@ -43,7 +43,7 @@ include(FetchContent)
 
 FetchContent_Declare(
 	auxport
-	GIT_REPOSITORY https://codeberg.com/inpinseptipin/AuxPort
+	GIT_REPOSITORY https://codeberg.org/inpinseptipin/AuxPort
 	GIT_TAG	master
 )
 FetchContent_MakeAvailable(auxport)
